@@ -221,7 +221,7 @@ export default App;
 
 to run the frontend, execute:
 ```
-cd frontend
-npx create-react-app
+cd my-app
+npm start 
 ```
 
